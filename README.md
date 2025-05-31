@@ -18,7 +18,6 @@ The dataset includes social media metrics such as followers, likes, comments, po
 ## Tools and Technologies
 - Power BI
 - Python (optional)
-- SQL (optional)
 - Excel/CSV datasets
 
 ## Screenshots
