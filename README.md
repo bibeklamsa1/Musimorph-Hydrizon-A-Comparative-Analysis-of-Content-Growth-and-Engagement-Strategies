@@ -12,9 +12,8 @@ This project presents a comparative analysis of the content growth and engagemen
 The dataset includes social media metrics such as followers, likes, comments, post frequency, and engagement rates for both Musimorph and Hydrizon over a defined period.
 
 ## How to Use
-1. Open the Power BI file in the `/powerbi` folder using Power BI Desktop.
+1. Open the Power BI file in the `powerbi` file using Power BI Desktop.
 2. Explore interactive dashboards to understand growth and engagement trends.
-3. Review scripts in the `/scripts` folder for data processing logic.
 
 ## Tools and Technologies
 - Power BI
@@ -37,8 +36,7 @@ The dataset includes social media metrics such as followers, likes, comments, po
 ## Author
 Bibek Lamsal
 
-## License
-[MIT](LICENSE) (or specify your choice)
+
 
 
 
